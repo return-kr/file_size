@@ -1,7 +1,7 @@
 # file_size
 SIMPLE C PROGRAM TO CALCULATE SIZE OF A TEXT FILE
 
-If gets() not works in Linux 
+If gets() does not work in Linux 
 then,
       use while loop .
       
